@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/tarjetas/build/static/css/main.de7064ce.css",
-    "main.js": "/tarjetas/build/static/js/main.42e26dfa.js",
-    "static/js/787.f6777bdc.chunk.js": "/tarjetas/build/static/js/787.f6777bdc.chunk.js",
-    "static/media/collie2.png": "/tarjetas/build/static/media/collie2.42080d7138a854ba173a.png",
-    "static/media/blancos.png": "/tarjetas/build/static/media/blancos.2fda9c57d64379e68c74.png",
-    "static/media/collie.png": "/tarjetas/build/static/media/collie.097af4a2e2e302479e2b.png",
-    "static/media/aleman2.png": "/tarjetas/build/static/media/aleman2.89c205b0f137948b9157.png",
-    "static/media/aleman.png": "/tarjetas/build/static/media/aleman.28b8c766a42fecfb5aad.png",
-    "static/media/malinois2.png": "/tarjetas/build/static/media/malinois2.bf25eca95e677a332839.png",
-    "static/media/malinois.png": "/tarjetas/build/static/media/malinois.1076901541843a65730d.png",
-    "static/media/blancos2.png": "/tarjetas/build/static/media/blancos2.c473b43ee58fcd9c9783.png",
-    "static/media/principal.png": "/tarjetas/build/static/media/principal.6802582cf2d018300c25.png",
-    "index.html": "/tarjetas/build/index.html",
-    "main.de7064ce.css.map": "/tarjetas/build/static/css/main.de7064ce.css.map",
-    "main.42e26dfa.js.map": "/tarjetas/build/static/js/main.42e26dfa.js.map",
-    "787.f6777bdc.chunk.js.map": "/tarjetas/build/static/js/787.f6777bdc.chunk.js.map"
+    "main.css": "/tarjetas/static/css/main.de7064ce.css",
+    "main.js": "/tarjetas/static/js/main.8e7b9150.js",
+    "static/js/787.f6777bdc.chunk.js": "/tarjetas/static/js/787.f6777bdc.chunk.js",
+    "static/media/collie2.png": "/tarjetas/static/media/collie2.42080d7138a854ba173a.png",
+    "static/media/blancos.png": "/tarjetas/static/media/blancos.2fda9c57d64379e68c74.png",
+    "static/media/collie.png": "/tarjetas/static/media/collie.097af4a2e2e302479e2b.png",
+    "static/media/aleman2.png": "/tarjetas/static/media/aleman2.89c205b0f137948b9157.png",
+    "static/media/aleman.png": "/tarjetas/static/media/aleman.28b8c766a42fecfb5aad.png",
+    "static/media/malinois2.png": "/tarjetas/static/media/malinois2.bf25eca95e677a332839.png",
+    "static/media/malinois.png": "/tarjetas/static/media/malinois.1076901541843a65730d.png",
+    "static/media/blancos2.png": "/tarjetas/static/media/blancos2.c473b43ee58fcd9c9783.png",
+    "static/media/principal.png": "/tarjetas/static/media/principal.6802582cf2d018300c25.png",
+    "index.html": "/tarjetas/index.html",
+    "main.de7064ce.css.map": "/tarjetas/static/css/main.de7064ce.css.map",
+    "main.8e7b9150.js.map": "/tarjetas/static/js/main.8e7b9150.js.map",
+    "787.f6777bdc.chunk.js.map": "/tarjetas/static/js/787.f6777bdc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.de7064ce.css",
-    "static/js/main.42e26dfa.js"
+    "static/js/main.8e7b9150.js"
   ]
 }
