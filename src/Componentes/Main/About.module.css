@@ -1,0 +1,27 @@
+.about {
+    @apply h-[calc(100vh-theme('height.principal'))] bg-gradient-to-r to-1b4332 from-081c15;
+}
+.titulo {
+    @apply h-2/3 flex flex-col  justify-end items-center text-74c69d;
+}
+.h2 {
+    @apply text-xl;
+}
+.p {
+    @apply  text-lg;
+}
+.hr {
+    @apply w-full mx-auto h-0.5 border-0 bg-gradient-to-r from-transparent via-1b4332 to-transparent;
+}
+.enlaces {
+    @apply flex h-1/3 items-end justify-end text-74c69d text-xs;
+}
+.negro {
+    @apply w-10 h-10 bg-343a40 mr-2;
+}
+.azul {
+    @apply w-10 h-10 bg-48bfe3 mr-2 text-1b4332;
+}
+.rosa {
+    @apply w-10 h-10 bg-b5179e;
+}

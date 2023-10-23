@@ -1,0 +1,15 @@
+.completo {
+    @apply bg-74c69d bg-opacity-75 rounded-xl overflow-hidden min-h-screen fixed inset-0;
+}
+.tarjeta {
+    @apply text-gray-950 bg-74c69d text-justify m-24;
+}
+.flexible {
+    @apply flex flex-row justify-between items-center mx-5;
+}
+.img {
+    @apply w-1/2 h-1/2 object-cover mr-4;
+}
+.lista {
+    @apply ml-4;
+}

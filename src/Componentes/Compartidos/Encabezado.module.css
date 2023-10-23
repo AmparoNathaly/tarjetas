@@ -1,0 +1,12 @@
+.encabezado {
+    @apply h-xl flex justify-between items-center shadow bg-081c15 text-74c69d relative;
+}
+.h1 {
+    @apply pl-4 uppercase;
+}
+.menu {
+    @apply pr-4;
+}
+.navegacion {
+    @apply absolute z-10 text-sm top-10 right-0 bg-opacity-80 bg-081c15 text-gray-200;
+}
